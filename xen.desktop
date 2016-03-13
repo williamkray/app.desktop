@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OpenXenManager
+Comment=OpenXenManager
+TryExec=openxenmanager
+Exec=openxenmanager
+Icon=virtualbox
+Type=Application
+Categories=GNOME;GTK;Utility;Emulator;
+StartupNotify=true

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NetApp OnCommand System Manager 3.1.1
+GenericName=NetApp OnCommand System Manager 3.1.1
+Comment=Manage NetApp storage controllers and clusters
+Exec=/usr/lib/jvm/jdk1.7.0_51/bin/java -jar SystemManager.jar
+Icon=/opt/NetApp/oncommand_system_manager/Application.ico
+Terminal=false
+Type=Application
+Categories=System;
+Path=/opt/NetApp/oncommand_system_manager/
+X-Desktop-File-Install-Version=0.15
+#Categories=NetApp;
