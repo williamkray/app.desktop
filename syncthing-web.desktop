@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Syncthing Web Interface
+GenericName=Syncthing Web
+Comment=Web GUI for Syncthing
+Exec=/usr/bin/syncthing -browser-only
+Type=Application
+Icon=syncthing-gtk
+Categories=Network
