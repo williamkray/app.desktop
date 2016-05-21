@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CMus Music Player
+Comment=Terminal based music player
+Exec=urxvt -e /home/william/Scripts/auto-tmux.sh cmus
+Icon=multimedia-audio-player
+Type=Application
+Terminal=false
+X-XClassHintResName=CMus
+Categories=Media;Multimedia;
