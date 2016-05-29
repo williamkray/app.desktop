@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=My meetings | GoToMeeting
+Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 5" --app-id=eakfodcmmccaicnpohicegcepkjeljag
+Icon=chrome-eakfodcmmccaicnpohicegcepkjeljag-Profile_5
+StartupWMClass=crx_eakfodcmmccaicnpohicegcepkjeljag

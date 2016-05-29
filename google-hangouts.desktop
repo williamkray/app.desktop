@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Hangouts
+Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 3" --app-id=odadmohlkalmmfdgjdlbjdpoekbijhcc
+Icon=chrome-odadmohlkalmmfdgjdlbjdpoekbijhcc-Profile_3
+StartupWMClass=crx_odadmohlkalmmfdgjdlbjdpoekbijhcc
