@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=SSH
 Comment=Opens SSH session in existing tmux session
-Exec=/bin/bash -c 'echo "URL=\"%U\"" > /tmp/s; urxvt -e /home/william/Scripts/auto-tmux.sh ssh'
+Exec=/bin/bash -c 'echo "URL=\"%U\"" > /tmp/s; urxvt -e /home/william/.scripts/auto-tmux.sh ssh'
 Icon=terminator
 Type=Application
 Categories=GNOME;GTK;Utility;TerminalEmulator;System;
