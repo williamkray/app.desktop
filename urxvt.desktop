@@ -2,7 +2,7 @@
 Version=1.0
 Name=urxvt
 Comment=An unicode capable rxvt clone
-Exec=urxvt -e auto-tmux.sh
+Exec=urxvt -e /home/william/.scripts/auto-tmux.sh
 Icon=terminal
 Terminal=false
 Type=Application
