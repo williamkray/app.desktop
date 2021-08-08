@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=CMus Music Player
 Comment=Terminal based music player
-Exec=kitty -e tmux.sh cmus
+Exec=kitty -e cmus
 Icon=multimedia-audio-player
 Type=Application
 Terminal=false
