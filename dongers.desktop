@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Donger Picker
+Name[en_US]=Donger Picker
+Comment=Select a donger and copy it to the clipboard
+Exec=donger.sh wrap
+Terminal=false
+Type=Application
+Icon=image-viewer

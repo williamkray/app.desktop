@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=CMus Music Player
 Comment=Terminal based music player
-Exec=kitty -e cmus
+Exec=cmus
 Icon=multimedia-audio-player
 Type=Application
-Terminal=false
+Terminal=true
 X-XClassHintResName=CMus
 Categories=Media;Multimedia;
