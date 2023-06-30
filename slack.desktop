@@ -1,9 +1,11 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
 Name=Slack
-Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 3" --app-id=fbpgchjcjgclfkclfhppcdgoanfalmjd
-Icon=chrome-fbpgchjcjgclfkclfhppcdgoanfalmjd-Profile_3
-StartupWMClass=crx_fbpgchjcjgclfkclfhppcdgoanfalmjd
+StartupWMClass=Slack
+Comment=Slack Desktop
+GenericName=Slack Client for Linux
+Exec=/usr/bin/slack --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations --enable-webrtc-pipewire-capturer -s %U
+Icon=slack
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Network;InstantMessaging;
+MimeType=x-scheme-handler/slack;
